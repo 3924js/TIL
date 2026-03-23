@@ -23,3 +23,6 @@
       * IMC에 추가된 IA에 대해 실질적인 키 맵핑(Key Mapping)이 이루어진다.
         * IA에서 설정해놓은 Value Type, Trigger를 추가적으로 설정하여 override 할수도 있지만, 권장되는 방식은 아님(IA와 IMC의 역할 분리)
     * 블루프린트 캐릭터 에셋, 혹은 C++ 캐릭퍼 파일에서 IA와 IMC를 이용해 함수, 기능들과 연결, 바인딩(Binding) 할 수 있음.
+* C
+  * 4-5 이중 반복문(Nested Loop
+  
